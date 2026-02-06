@@ -1,1 +1,1 @@
-https://raw.githubusercontent.com/StarMoon-SL/StarLight/refs/heads/main/StarLight/" .. StarLight scrpit .. ".lua
+loadstring(game:HttpGet("https://raw.githubusercontent.com/StarMoon-SL/StarLight/refs/heads/main/StarLight%20scrpit.lua"))( )
