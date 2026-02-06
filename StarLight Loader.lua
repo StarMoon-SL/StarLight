@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/StarMoon-SL/StarLight/refs/heads/main"))()
+https://raw.githubusercontent.com/StarMoon-SL/StarLight/refs/heads/main/StarLight/" .. StarLight scrpit .. ".lua
