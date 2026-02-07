@@ -1,1 +1,344 @@
---[[ v1.0.0 https://wearedevs.net/obfuscator ]] return(function(...)local N={"\066\118\051\097\069\118\105\106","\104\118\081\116\055\110\103\112\110\052\066\071\083\117\081\052","\047\054\052\114\118\074\116\086\104\114\077\072\055\065\079\112\104\053\061\061","\104\075\105\087\055\075\097\061","\083\120\105\052\069\089\061\061","","\069\101\077\057\069\101\081\111","\083\114\084\071\055\120\108\061","\048\052\077\117\069\097\061\061","\055\121\054\061","\072\114\087\109\105\112\066\075\110\065\104\056\118\110\054\061","\104\101\085\111\055\118\085\111\069\048\116\087\069\114\084\103","\055\075\077\087\083\065\105\111\104\114\103\057\083\097\061\061";"\083\048\079\056\055\120\108\061";"\085\075\081\043\104\075\085\056\108\054\116\103\066\075\085\074\066\075\085\078\108\053\061\061","\083\081\105\087\083\117\115\103\083\101\103\057\066\065\081\078\069\089\061\061","\070\111\079\079\049\078\087\113\104\052\072\101\047\081\083\047\116\076\061\061";"\068\088\089\103\083\098\107\115\068\089\061\061","\083\101\081\043\083\053\061\061","\105\118\089\052\047\078\084\079\055\072\111\112\104\054\079\070","\104\120\116\056\049\118\051\117";"\066\075\077\112\066\065\079\115\055\114\104\061","\048\052\077\073\083\118\050\061";"\055\075\085\057";"\048\052\077\043\083\048\116\087\066\075\081\088\055\075\072\061","\048\052\077\115\055\114\116\103\119\076\061\061","\069\101\087\087\104\089\061\061","\055\114\084\085\070\112\083\074\072\114\083\068\047\103\054\050","\055\118\081\111\049\076\061\061","\066\081\105\070\116\074\103\110\047\078\077\073\055\072\054\050","\047\065\116\111\104\054\066\103\066\076\061\061";"\104\114\081\057\083\075\077\043";"\068\089\061\061";"\055\121\108\061";"\104\085\105\107\066\111\084\068\104\111\105\090\070\078\081\085";"\104\114\085\043\055\120\083\103";"\068\072\083\087\118\074\066\103\119\081\079\075\110\072\081\106\116\118\053\061","\069\117\103\111\083\053\061\061","\118\121\078\084\053\072\083\052\066\078\043\112\104\085\081\087\105\089\061\061","\083\101\052\087\066\075\105\107";"\066\075\077\057\066\118\052\088\083\048\108\061","\070\110\116\098\055\065\076\097\047\052\066\085\072\075\108\112\083\053\061\061","\053\120\116\051\116\052\107\061";"\105\075\087\121\066\074\103\090\083\075\108\056\110\121\069\061","\066\054\105\111\083\103\083\105\110\103\089\101\055\078\111\061","\066\075\081\088\055\075\072\061";"\113\086\076\083\054\053\100\085\067\075\107\120\052\056\105\088\077\108\052\057\097\078\101\068\078\055\050\086\057\083\072\109\065\118\050\052\053\111\106\097\118\065\073\118\112\098\048\098\078\043\048\122\087\116\049\074\073\070\105\056\071\076\072\099\110\104\056\117\065\109\103\098\067\108\113\112\075\048\109\106\107\097\083\113\049\056\075\052\071\078\081\108\100\089\088\073\050\047\108\075\069\052\086\089\089\047\069\119\121\100\107\090\116\051\067\112\099\047\067\055\122\047\074\067\111\100\077\100\048\117\074\050\087\053\081\075\072\106\088\049\084\118\089\112\069\067\080\109\114\076\068\104\117\111\078\057\078\079\113\087"}for f,O in ipairs({{-804707-(-804708),545466-545419},{331942-331941;1027117-1027092},{1017862+-1017836,663492+-663445}})do while O[577872-577871]<O[-1026481-(-1026483)]do N[O[621190+-621189]],N[O[975868-975866]],O[-530408-(-530409)],O[-735499-(-735501)]=N[O[681676+-681674]],N[O[-156673-(-156674)]],O[-170636-(-170637)]+(241103-241102),O[692213+-692211]-(-35654+35655)end end local function f(f)return N[f+(-931916-(-937744))]end do local f={c=383657-383626;b=-441140+441142;["\057"]=436828-436782;V=886613-886612,C=536156+-536145,d=823668-823658,h=-605848-(-605876);D=442572+-442558;["\054"]=187622-187618,B=555510-555481;U=-825210+825231;W=-243005-(-243038),["\052"]=888618-888565;s=513745+-513704;l=96705+-96697;M=-1027607+1027668,["\047"]=-437261-(-437279),e=975501+-975447;["\051"]=591133-591076;N=-465413-(-465449),K=912342+-912336;k=-169086-(-169126),["\048"]=-880633-(-880656);E=349940+-349916;["\056"]=256745-256695;n=942985-942966;J=460558-460523;u=-297344+297383;["\043"]=10274+-10229;G=538575+-538528;L=287715-287715;r=-143864-(-143902),v=102266-102244;w=563877-563847,["\049"]=-946008-(-946034),q=-8676-(-8718);Q=42851-42846;x=-721289+721344,O=-752778+752787;["\053"]=764992+-764976,F=-92723-(-92735);["\050"]=244096-244040,H=-466766+466786,g=-954879-(-954916);P=-796014-(-796076),z=-319498-(-319557),S=218553+-218528,I=1007164+-1007120,j=-899900+899943,t=-901672+901689;["\055"]=-155649-(-155676);Z=911221-911163;a=-177641+177689,p=47987-47936,o=428389-428337;y=-364683-(-364686);R=-943080-(-943140),T=-259842+259891,Y=107536+-107504;m=-527170+527185;i=-816537+816550,f=-718835+718898,X=107982+-107948,A=-170362-(-170369)}local O=string.sub local E=table.insert local d=string.len local c=math.floor local F=N local Y=table.concat local J=type local i=string.char for N=733706-733705,#F,120261-120260 do local r=F[N]if J(r)=="\115\116\114\105\110\103"then local J=d(r)local S={}local I=-450300-(-450301)local V=-766190-(-766190)local T=832895-832895 while I<=J do local N=O(r,I,I)local d=f[N]if d then V=V+d*(-75764+75828)^((288080-288077)-T)T=T+(-622581-(-622582))if T==152381-152377 then T=-514344-(-514344)local N=c(V/(-83141+148677))local f=c((V%(-789008+854544))/(-666745-(-667001)))local O=V%(279386+-279130)E(S,i(N,f,O))V=-885891-(-885891)end elseif N=="\061"then E(S,i(c(V/(474260-408724))))if I>=J or O(r,I+(-545622+545623),I+(-497387+497388))~="\061"then E(S,i(c((V%(-523217+588753))/(-82191+82447))))end break end I=I+(442672-442671)end F[N]=Y(S)end end end return(function(N,E,d,c,F,Y,J,r,t,n,m,g,I,S,i,u,y,T,V,O,q)O,V,y,i,t,n,q,T,u,I,S,m,g,r=function(O,d,c,F)local r,z,D,s,l,R,C,k,Q,h,L,W,V,x,j,J,H,b,I,a,e,G,M,T,w,X,v,m,B,P,A,o,p,Z while O do if O<10112616-1015355 then if O<3625142-(-108018)then if O<78869+1351626 then if O<-6955-(-674756)then if O<-579539+957492 then if O<-618880+931640 then if O<1282603-1008329 then I=i[c[-187126-(-187128)]]V=i[c[789188+-789185]]O=956663+999233 r=I==V J=r else V=f(-626586+620782)I=N[V]V=f(264626-270440)r=I[V]V=i[c[870602-870601]]I={r(V)}O=N[f(-458979+453171)]J={E(I)}end else h=362004+-362003 O={}W=-795036+795291 i[c[-647321+647323]]=O J=i[c[576467-576464]]w=h m=35184372558881-470049 T=J H=f(-16486-(-10704))J=I%m h=764957-764957 i[c[283509+-283505]]=J D=I%W W=672745+-672743 m=D+W i[c[-820881+820886]]=m W=N[H]a=w<h H=f(653116-658942)D=W[H]W=D(r)O=7945722-976757 D=f(-268373-(-262576))v=W V[I]=D H=869479-869478 D=-745427+745570 h=H-w end else if O<1395571-981902 then I=i[c[218159+-218156]]V=-435657+435689 r=I%V T=i[c[969349-969345]]W=i[c[-431587+431589]]w=42843-42830 Q=i[c[760885+-760882]]b=Q-r v=555181-555179 Q=-181809+181841 a=b/Q h=w-a H=v^h D=W/H m=T(D)H=-791695+791696 T=4295966227-998931 V=m%T m=531783-531781 T=m^r I=V/T T=i[c[36681+-36677]]O=-947006+1240760 W=I%H H=4293924864-(-1042432)D=W*H m=T(D)T=i[c[-873261-(-873265)]]D=T(I)V=m+D m=272488-206952 w=-613845+614101 T=V%m I=nil r=nil W=542487+-476951 D=V-T m=D/W W=-93291+93547 D=T%W H=T-D v=-329968-(-330224)T=nil V=nil W=H/v v=130591+-130335 H=m%v h=m-H v=h/w h={D;W;H;v}v=nil H=nil m=nil i[c[938218-938217]]=h D=nil W=nil else J=-466963+14930541 I=f(-751673-(-745881))V=11566650-377246 r=I^V O=J-r J=f(-787847-(-782040))r=O O=J/r J={O}O=N[f(-210659-(-204859))]end end else if O<-659892+1591413 then if O<726577+7954 then D=nil O=11785268-(-377004)W=nil T=nil else O=h J=v O=v and-348946+6731431 or-105396+1105122 end else if O<471028+670281 then O=508882+5873603 h=f(-15922+10120)v=N[h]J=v else O=true O=O and 8099496-122464 or 124669+13596366 end end end else if O<1588644-(-508107)then if O<-471393+2423638 then if O<2739046-927430 then if O<595078+1085921 then o=994798+-994797 P=#b O=9636253-48058 Q=T(o,P)X=-435762-(-435763)o=D(b,Q)P=i[a]M=o-X L=W(M)Q=nil P[o]=L o=nil else z=i[I]C=z O=z and 3746711-(-999842)or 6709158-37975 end else O=true J={}i[c[1007210+-1007209]]=O O=N[f(-201876+196065)]end else if O<3000798-1022440 then O=J and-828780+3641324 or 9957679-313388 else l=i[I]O=l and-237021+13652326 or 16777561-795958 k=l end end else if O<2587963-(-134042)then if O<2024451-(-410052)then T=-644460-(-644461)m=968723+-968721 I=i[c[-320829+320830]]V=I(T,m)I=-596115-(-596116)r=V==I J=r O=r and 2259258-303362 or-792887-(-873151)else O=351197+13155965 end else if O<2360264-(-753311)then H=f(-1008911+1003112)T=f(-730074-(-724293))J=f(552026-557835)O=N[J]r=i[c[705645+-705641]]v=q(559608-(-84500),{})V=N[T]W=N[H]H={W(v)}W=-198294-(-198296)D={E(H)}m=D[W]T=V(m)V=f(-511970-(-506185))I=r(T,V)r={I()}J=O(E(r))I=i[c[715112+-715107]]r=J O=I and 9744778-(-288316)or 13735306-(-567470)J=I else O=i[c[235166+-235165]]H=-682753+682753 v=-513484+513739 W=O(H,v)I=V r[I]=W O=-520009+11574475 I=nil end end end end else if O<6865776-(-585054)then if O<406494+6073489 then if O<-556654+5746718 then if O<5080805-569199 then if O<4201454-(-144342)then L=f(595878-601671)p=f(-772431+766650)O=N[p]P=N[L]p=O(P)O=f(922873+-928689)N[O]=p O=7320381-(-328119)else O=N[f(742834+-748647)]J={}end else O=937444+5733739 z=w==a C=z end else if O<678201+5258810 then J=-29306+7875578 V=275313+14717017 I=f(-976057+970252)r=I^V O=J-r r=O J=f(-992744+986938)O=J/r J={O}O=N[f(-321179+315396)]else w=-41017-(-41082)p=f(729874-735655)v=S()h=814084+-814081 i[v]=J O=i[W]b=f(-110484+104685)J=O(h,w)h=S()i[h]=J O=-661455-(-661455)w=O J=N[b]O=498251+-498251 Q=y(5474745-155408,{})b={J(Q)}a=O O={E(b)}b=O J=790196-790194 O=b[J]J=f(900762-906571)Q=O O=N[J]o=i[V]z=N[p]p=z(Q)z=f(-600105+594320)C=o(p,z)o={C()}J=O(E(o))o=S()i[o]=J O=-833080+8262087 J=-49437+49438 C=i[h]z=C C=-783875-(-783876)p=C C=-115818-(-115818)P=p<C C=J-p end end else if O<675097+6006130 then if O<303973+6210046 then O=1793120-162235 o=#b P=179376-179376 Q=o==P else i[I]=C O=i[I]O=O and-465934+3038153 or 12916873-245186 end else if O<487110+6589305 then h=h+w b=not a H=h<=v H=b and H b=h>=v b=a and b H=b or H b=9596161-(-832179)O=H and b H=-77308-(-756551)O=O or H else L=not P C=C+p J=C<=z J=L and J L=C>=z L=P and L J=L or J L=-367014+14150685 O=J and L J=1327850-(-379323)O=O or J end end end else if O<8082419-44879 then if O<-159349+8048141 then if O<-745479+8444970 then if O<-121493+7759124 then P=f(735252-741068)O=N[P]P=f(-812599-(-806806))N[P]=O O=8564070-915570 else O=1170679-(-242540)end else O=u(-478503+9969172,{T})z={O()}J={E(z)}O=N[f(-1012624-(-1006823))]end else if O<8957979-1023042 then O={}I=722945-722944 r=O V=i[c[-91256-(-91265)]]T=V V=-947819-(-947820)m=V O=167739+10886727 V=-388582-(-388582)D=m<V V=I-m else p=462003-462002 O=i[W]P=-161896+161902 z=O(p,P)O=f(957300+-963116)P=f(-904251-(-898435))N[O]=z p=N[P]P=-107242-(-107244)O=p>P O=O and 3695912-(-627461)or 311260+7269273 end end else if O<8417420-98704 then if O<-411551+8631159 then J=f(333430-339219)r=f(-415361+409573)O=N[J]J=O(r)J={}O=N[f(339886-345672)]else R=g(R)e=nil X=g(X)j=g(j)L=g(L)O=249269+7179738 G=g(G)M=g(M)end else if O<-561094+8997682 then O=i[c[-335397-(-335407)]]I=i[c[331288+-331277]]r[O]=I O=i[c[69661+-69649]]I={O(r)}J={E(I)}O=N[f(-975402-(-969587))]else D=i[m]J=D O=238569+13141082 end end end end end else if O<949659+10886555 then if O<1012049+9686658 then if O<-563357+10608805 then if O<-322396+9979540 then if O<8690037-(-935396)then if O<8999837-(-542092)then O=244788+13385366 else o=#b P=-776502-(-776502)Q=o==P O=Q and-707824+10401366 or 770768+860117 end else O=i[c[68495-68488]]O=O and-216281+12894534 or 8819498-894364 end else if O<10766324-895854 then o=S()P=q(10712465-(-314834),{o,v;h;m})O=N[f(636670+-642490)]Q={}i[o]=Q D=nil Q=S()b=nil i[Q]=P L=S()G=f(880394+-886218)H=nil T=nil P={}M=f(-716861+711070)e=f(-371512+365687)i[L]=P X={}P=N[M]m=g(m)m=f(73053+-78843)R=i[L]B=nil j={[G]=R;[e]=B}M=P(X,j)P=n(12181009-509474,{L;o;a,v;h;Q})Q=g(Q)T=N[m]V=M v=g(v)a=g(a)o=g(o)h=g(h)h=f(-140721+134918)L=g(L)w=nil w=888786+13826215086420 W=nil W=f(-867732-(-861948))D=N[W]I=P v=I(h,w)H=V[v]v=f(277562-283381)v=D[v]V=nil W={v(D,H)}J={}m=T(E(W))T=m()I=nil else V=i[c[166626+-166620]]I=V==r J=I O=375777+13926999 end end else if O<454344+9932854 then if O<724122+9395582 then Q=o O=11542732-(-41177)X=Q b[Q]=X Q=nil else O=503960+7723843 i[I]=J end else if O<11208913-749363 then H=h p=f(-398470-(-392688))z=N[p]p=f(169561-175373)C=z[p]O=553668+6415297 z=C(r,H)C=i[c[144682+-144676]]H=nil p=C()o=z+p Q=o+D o=-7274+7530 b=Q%o o=V[I]p=960897-960896 D=b z=D+p C=T[z]Q=o..C V[I]=Q else x=-424618+424619 s=e[x]l=O x=false B=s==x O=B and 15387538-(-332282)or 991363+10575059 k=B end end end else if O<995617+10366120 then if O<11984681-965315 then if O<10856451-(-113948)then if O<11225039-359033 then k=i[I]O=k and 10949507-345789 or 10649210-325077 J=k else O=11362900-(-799372)end else O=true O=O and 66266+15861232 or 7436810-(-347602)end else if O<-532452+11582926 then r=i[c[1028644-1028643]]J=#r r=694008-694008 O=J==r O=O and-297941+12131729 or-569872+863626 else V=V+m W=not D I=V<=T I=W and I W=V>=T W=D and W I=W or I W=758529+2497282 O=I and W I=678855+7748958 O=O or I end end else if O<911636+10678431 then if O<-769015+12336375 then J=k O=l O=11155674-831541 else o=o+L Q=o<=P X=not M Q=X and Q X=o>=P X=M and X Q=X or Q X=9395590-(-704936)O=Q and X Q=6118029-(-374854)O=O or Q end else if O<139261+11572624 then O=i[c[-1015813+1015814]]V=O I=d[997978-997976]O=V[I]O=O and 10247543-(-716034)or-963033+1290846 r=d[-846682+846683]else V=-535611-(-535748)I=i[c[-916220-(-916222)]]r=I*V I=929796+33239005039729 J=r+I r=968661+35184371120171 I=-210207+210208 O=J%r i[c[33146-33144]]=O O=14054692-(-591837)r=i[c[-242544-(-242547)]]J=r~=I end end end end else if O<-38835+13734563 then if O<-906568+14308845 then if O<-1021688+13695230 then if O<-993002+13583221 then if O<12945851-801420 then O=-921427+1830405 b=f(-170424-(-164620))a=N[b]b=f(-311210+305408)w=a[b]v=w else J={I}O=N[f(284035+-289822)]end else O=true O=8806078-1021666 end else if O<747482+12310300 then V=378728-378728 r=f(-515215+509426)O=N[r]I=i[c[420047-420039]]r=O(I,V)O=6925190-(-999944)else H=f(-550408-(-544604))D=J W=f(-353922+348101)J=N[W]W=f(908892-914710)O=J[W]a=f(715587+-721391)W=S()i[W]=O J=N[H]H=f(666016+-671812)O=J[H]w=N[a]H=O v=w h=O O=w and 11239225-(-787717)or 1036170-127192 end end else if O<976522+12524270 then if O<739502+12694449 then B=383575+-383574 O=758064+15223539 l=e[B]k=l else I=i[c[46259-46256]]V=-447692+447693 r=I~=V O=r and-627514+1012148 or 14015870-(-630659)end else if O<-671269+14225314 then Q=nil a=nil b=nil h=g(h)W=g(W)W=f(-730940+725119)w=nil v=g(v)V=g(V)m=g(m)o=g(o)D=nil D=f(559180-565001)I=g(I)V=nil b={}H=nil v=f(-792645+786863)m=N[D]D=f(191870+-197665)O=12448750-864841 I=nil a=S()o=-105299-(-105555)h=S()T=g(T)T=m[D]m=S()H=f(-159594+153790)i[m]=T D=N[W]W=f(-60971+55153)T=D[W]W=N[H]H=f(-99213+93399)D=W[H]w={}P=o H=N[v]Q=400042-400041 v=f(925753+-931576)W=H[v]H=-865855-(-865855)v=S()i[v]=H H=-195887-(-195889)i[h]=H i[a]=w w=309045-309045 H={}o=-887340+887341 L=o o=234311-234311 M=L<o o=Q-L else O=true O=O and-630169+16819933 or 3369547-(-988255)end end end else if O<15412458-(-191996)then if O<151487+14391185 then if O<14334037-85458 then if O<-64220+13837995 then O=N[f(-259908+254086)]J={}else M=f(-720577-(-714756))j=179275+-179020 X=-179584-(-179684)R=965325-965324 L=S()i[L]=C e=-801951+801953 A=-256929-(-256929)J=N[M]M=f(2634-8452)O=J[M]M=-373998-(-373999)J=O(M,X)M=S()i[M]=J X=-278745-(-278745)O=i[W]J=O(X,j)B=f(-918466+912685)j=-589198-(-589199)X=S()i[X]=J O=i[W]G=i[M]J=O(j,G)j=S()i[j]=J J=i[W]G=J(R,e)e=f(-830053-(-824236))J=-120035+120036 O=G==J G=S()J=f(-310299+304514)i[G]=O l=N[B]s=i[W]O=f(997582-1003380)Z=196304+-186304 x={s(A,Z)}B=l(E(x))l=f(-128163-(-122346))k=B..l R=e..k O=Q[O]e=f(141372+-147171)O=O(Q,J,R)R=S()i[R]=O k=q(37144+2396084,{W,L;h;V,I,o;G;R,M;j,X,v})J=N[e]e={J(k)}O={E(e)}e=O O=i[G]O=O and 11003954-175762 or 2599508-621038 end else r=nil O=546696+9097595 i[c[761571-761566]]=J end else if O<-60548+15112146 then V=426500+-426414 I=i[c[928569+-928566]]r=I*V I=-569486-(-569743)J=r%I O=-866337+14358266 i[c[-142139-(-142142)]]=J else O=true I=S()W=f(433411-439210)r=d V=f(242716+-248498)i[I]=O J=N[V]V=f(74661+-80471)O=J[V]V=S()i[V]=O O=y(484067+7726859,{})m=S()T=S()H=t(471033+1422590,{m})i[T]=O O=false i[m]=O D=N[W]W=D(H)J=W O=W and-123826+8674700 or 13586490-206839 end end else if O<249231+15695514 then if O<-1029704+16754757 then x=446384-446382 s=e[x]O=12207227-640805 x=i[R]B=s==x k=B else O=699428-(-713791)end else if O<453059+15730750 then i[I]=k x=i[j]A=344914+-344913 s=x+A B=e[s]l=w+B B=365369+-365113 O=l%B s=i[X]B=a+s s=713645+-713389 w=O l=B%s O=-331316+8559119 a=l else J=f(-99954-(-94138))O=N[J]r=f(30463+-36256)J=N[r]r=f(415230-421023)N[r]=O r=f(308731+-314547)N[r]=J r=i[c[-71997-(-71998)]]I=r()O=-142070+13772224 end end end end end end end O=#F return E(J)end,function(N)for f=287642-287641,#N,706917-706916 do r[N[f]]=(543416-543415)+r[N[f]]end if d then local O=d(true)local E=F(O)E[f(-560529-(-554705))],E[f(324562+-330356)],E[f(-163158-(-157331))]=N,T,function()return 3731656-(-291883)end return O else return c({},{[f(49959+-55753)]=T;[f(817998-823822)]=N,[f(347646+-353473)]=function()return-857534+4881073 end})end end,function(N,f)local E=V(f)local d=function(d,c,F,Y)return O(N,{d;c,F,Y},f,E)end return d end,{},function(N,f)local E=V(f)local d=function(d,c,F,Y,J)return O(N,{d;c;F;Y;J},f,E)end return d end,function(N,f)local E=V(f)local d=function(d,c)return O(N,{d,c},f,E)end return d end,function(N,f)local E=V(f)local d=function(d,c,F)return O(N,{d;c,F},f,E)end return d end,function(N)local f,O=-777051-(-777052),N[682561+-682560]while O do r[O],f=r[O]-(718771-718770),f+(456377-456376)if r[O]==752932+-752932 then r[O],i[O]=nil,nil end O=N[f]end end,function(N,f)local E=V(f)local d=function(d)return O(N,{d},f,E)end return d end,-13929-(-13929),function()I=(-979086-(-979087))+I r[I]=-534854+534855 return I end,function(N,f)local E=V(f)local d=function(...)return O(N,{...},f,E)end return d end,function(N)r[N]=r[N]-(-829509+829510)if r[N]==-9157+9157 then r[N],i[N]=nil,nil end end,{}return(m(182985+15033720,{}))(E(J))end)(getfenv and getfenv()or _ENV,unpack or table[f(410237+-416039)],newproxy,setmetatable,getmetatable,select,{...})end)(...)
+local Junkie = loadstring(game:HttpGet("https://jnkie.com/sdk/library.lua"))()
+Junkie.service = "StarLight"
+Junkie.identifier = "1091"
+Junkie.provider = "StarLight"
+
+if getgenv().SCRIPT_KEY then
+    local validation = Junkie.check_key(getgenv().SCRIPT_KEY)
+    if validation and validation.valid then
+        loadstring(game:HttpGet("https://api.jnkie.com/api/v1/luascripts/public/dc15b5edf02bae8de414c6de43570d863cf3cf9b20b621c1d2c40270ed558aa2/download"))()
+        return
+    end
+end
+
+local Players = game:GetService("Players")
+local TweenService = game:GetService("TweenService")
+local UserInputService = game:GetService("UserInputService")
+
+local Colors = {
+    background = Color3.fromRGB(13, 17, 23),
+    surface = Color3.fromRGB(22, 27, 34),
+    surfaceLight = Color3.fromRGB(30, 36, 44),
+    primary = Color3.fromRGB(88, 166, 255),
+    primaryDark = Color3.fromRGB(58, 136, 225),
+    primaryGlow = Color3.fromRGB(120, 180, 255),
+    accent = Color3.fromRGB(136, 87, 224),
+    success = Color3.fromRGB(47, 183, 117),
+    error = Color3.fromRGB(248, 81, 73),
+    textPrimary = Color3.fromRGB(230, 237, 243),
+    textSecondary = Color3.fromRGB(139, 148, 158),
+    textMuted = Color3.fromRGB(110, 118, 129),
+    border = Color3.fromRGB(48, 54, 61),
+    glass = Color3.fromRGB(255, 255, 255)
+}
+
+local function createIcon(name, size, color)
+    local lbl = Instance.new("TextLabel")
+    lbl.BackgroundTransparency = 1
+    lbl.Size = UDim2.new(0, size or 18, 0, size or 18)
+    lbl.Font = Enum.Font.SourceSansBold
+    lbl.TextColor3 = color or Color3.fromRGB(255, 255, 255)
+    lbl.TextScaled = true
+    local icons = {shield = "🛡️", key = "🔑", link = "🔗", x = "✕", check = "✓"}
+    lbl.Text = icons[name] or "●"
+    return lbl
+end
+
+local gui = Instance.new("ScreenGui")
+gui.Name = "StarLightKeySystem"
+gui.ResetOnSpawn = false
+gui.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
+gui.IgnoreGuiInset = true
+
+local backdrop = Instance.new("Frame")
+backdrop.Name = "Backdrop"
+backdrop.Size = UDim2.new(1, 0, 1, 0)
+backdrop.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+backdrop.BackgroundTransparency = 0.6
+backdrop.BorderSizePixel = 0
+backdrop.Parent = gui
+
+local container = Instance.new("Frame")
+container.Name = "Container"
+container.Size = UDim2.new(0, 400, 0, 280)
+container.Position = UDim2.new(0.5, 0, 0.5, 0)
+container.AnchorPoint = Vector2.new(0.5, 0.5)
+container.BackgroundColor3 = Colors.surface
+container.BackgroundTransparency = 0.3
+container.BorderSizePixel = 0
+container.Parent = backdrop
+
+local containerCorner = Instance.new("UICorner")
+containerCorner.CornerRadius = UDim.new(0, 16)
+containerCorner.Parent = container
+
+local containerStroke = Instance.new("UIStroke")
+containerStroke.Color = Colors.primary
+containerStroke.Thickness = 1
+containerStroke.Transparency = 0.5
+containerStroke.Parent = container
+
+local glass = Instance.new("Frame")
+glass.Name = "Glass"
+glass.Size = UDim2.new(1, 0, 1, 0)
+glass.BackgroundColor3 = Colors.glass
+glass.BackgroundTransparency = 0.95
+glass.BorderSizePixel = 0
+glass.Parent = container
+
+local glassCorner = Instance.new("UICorner")
+glassCorner.CornerRadius = UDim.new(0, 16)
+glassCorner.Parent = glass
+
+local gradient = Instance.new("UIGradient")
+gradient.Color = ColorSequence.new({
+    ColorSequenceKeypoint.new(0, Color3.fromRGB(88, 166, 255)),
+    ColorSequenceKeypoint.new(1, Color3.fromRGB(136, 87, 224))
+})
+gradient.Rotation = 45
+gradient.Transparency = NumberSequence.new({
+    NumberSequenceKeypoint.new(0, 0.9),
+    NumberSequenceKeypoint.new(1, 1)
+})
+gradient.Parent = glass
+
+local topBar = Instance.new("Frame")
+topBar.Name = "TopBar"
+topBar.Size = UDim2.new(1, 0, 0, 50)
+topBar.BackgroundColor3 = Colors.background
+topBar.BackgroundTransparency = 0.5
+topBar.BorderSizePixel = 0
+topBar.Parent = container
+
+local topBarCorner = Instance.new("UICorner")
+topBarCorner.CornerRadius = UDim.new(0, 16)
+topBarCorner.Parent = topBar
+
+local title = Instance.new("TextLabel")
+title.Name = "Title"
+title.Size = UDim2.new(1, -60, 1, 0)
+title.Position = UDim2.new(0, 20, 0, 0)
+title.BackgroundTransparency = 1
+title.Text = "StarLight Key System"
+title.TextColor3 = Colors.textPrimary
+title.TextSize = 18
+title.Font = Enum.Font.GothamBold
+title.TextXAlignment = Enum.TextXAlignment.Left
+title.Parent = topBar
+
+local closeBtn = Instance.new("TextButton")
+closeBtn.Name = "Close"
+closeBtn.Size = UDim2.new(0, 32, 0, 32)
+closeBtn.Position = UDim2.new(1, -42, 0.5, 0)
+closeBtn.AnchorPoint = Vector2.new(0, 0.5)
+closeBtn.BackgroundColor3 = Colors.error
+closeBtn.BackgroundTransparency = 0.8
+closeBtn.Text = ""
+closeBtn.Parent = topBar
+
+local closeCorner = Instance.new("UICorner")
+closeCorner.CornerRadius = UDim.new(0, 8)
+closeCorner.Parent = closeBtn
+
+local closeIcon = createIcon("x", 14, Colors.textPrimary)
+closeIcon.Position = UDim2.new(0.5, 0, 0.5, 0)
+closeIcon.AnchorPoint = Vector2.new(0.5, 0.5)
+closeIcon.Parent = closeBtn
+
+local content = Instance.new("Frame")
+content.Name = "Content"
+content.Size = UDim2.new(1, -40, 1, -70)
+content.Position = UDim2.new(0, 20, 0, 60)
+content.BackgroundTransparency = 1
+content.Parent = container
+
+local iconFrame = Instance.new("Frame")
+iconFrame.Name = "IconFrame"
+iconFrame.Size = UDim2.new(0, 60, 0, 60)
+iconFrame.Position = UDim2.new(0.5, 0, 0, 10)
+iconFrame.AnchorPoint = Vector2.new(0.5, 0)
+iconFrame.BackgroundColor3 = Colors.primary
+iconFrame.BackgroundTransparency = 0.8
+iconFrame.Parent = content
+
+local iconCorner = Instance.new("UICorner")
+iconCorner.CornerRadius = UDim.new(0, 12)
+iconCorner.Parent = iconFrame
+
+local mainIcon = createIcon("shield", 28, Color3.fromRGB(255, 255, 255))
+mainIcon.Position = UDim2.new(0.5, 0, 0.5, 0)
+mainIcon.AnchorPoint = Vector2.new(0.5, 0.5)
+mainIcon.Parent = iconFrame
+
+local subtitle = Instance.new("TextLabel")
+subtitle.Name = "Subtitle"
+subtitle.Size = UDim2.new(1, 0, 0, 20)
+subtitle.Position = UDim2.new(0, 0, 0, 80)
+subtitle.BackgroundTransparency = 1
+subtitle.Text = "Enter your key to continue"
+subtitle.TextColor3 = Colors.textSecondary
+subtitle.TextSize = 14
+subtitle.Font = Enum.Font.Gotham
+subtitle.Parent = content
+
+local inputFrame = Instance.new("Frame")
+inputFrame.Name = "InputFrame"
+inputFrame.Size = UDim2.new(1, 0, 0, 44)
+inputFrame.Position = UDim2.new(0, 0, 0, 110)
+inputFrame.BackgroundColor3 = Colors.surfaceLight
+inputFrame.BackgroundTransparency = 0.5
+inputFrame.BorderSizePixel = 0
+inputFrame.Parent = content
+
+local inputCorner = Instance.new("UICorner")
+inputCorner.CornerRadius = UDim.new(0, 10)
+inputCorner.Parent = inputFrame
+
+local inputStroke = Instance.new("UIStroke")
+inputStroke.Color = Colors.border
+inputStroke.Thickness = 1
+inputStroke.Parent = inputFrame
+
+local keyIcon = createIcon("key", 16, Colors.primary)
+keyIcon.Position = UDim2.new(0, 12, 0.5, 0)
+keyIcon.AnchorPoint = Vector2.new(0, 0.5)
+keyIcon.Parent = inputFrame
+
+local keyInput = Instance.new("TextBox")
+keyInput.Name = "KeyInput"
+keyInput.Size = UDim2.new(1, -50, 1, 0)
+keyInput.Position = UDim2.new(0, 40, 0, 0)
+keyInput.BackgroundTransparency = 1
+keyInput.PlaceholderText = "Enter your verification key"
+keyInput.PlaceholderColor3 = Colors.textMuted
+keyInput.Text = ""
+keyInput.TextColor3 = Colors.textPrimary
+keyInput.TextSize = 14
+keyInput.Font = Enum.Font.Gotham
+keyInput.ClearTextOnFocus = false
+keyInput.Parent = inputFrame
+
+local buttonFrame = Instance.new("Frame")
+buttonFrame.Name = "ButtonFrame"
+buttonFrame.Size = UDim2.new(1, 0, 0, 40)
+buttonFrame.Position = UDim2.new(0, 0, 0, 170)
+buttonFrame.BackgroundTransparency = 1
+buttonFrame.Parent = content
+
+local getLinkBtn = Instance.new("TextButton")
+getLinkBtn.Name = "GetLink"
+getLinkBtn.Size = UDim2.new(0.48, 0, 1, 0)
+getLinkBtn.BackgroundColor3 = Colors.primary
+getLinkBtn.BackgroundTransparency = 0.2
+getLinkBtn.Text = "Get Link"
+getLinkBtn.TextColor3 = Color3.fromRGB(255, 255, 255)
+getLinkBtn.TextSize = 14
+getLinkBtn.Font = Enum.Font.GothamSemibold
+getLinkBtn.Parent = buttonFrame
+
+local linkCorner = Instance.new("UICorner")
+linkCorner.CornerRadius = UDim.new(0, 10)
+linkCorner.Parent = getLinkBtn
+
+local verifyBtn = Instance.new("TextButton")
+verifyBtn.Name = "Verify"
+verifyBtn.Size = UDim2.new(0.48, 0, 1, 0)
+verifyBtn.Position = UDim2.new(0.52, 0, 0, 0)
+verifyBtn.BackgroundColor3 = Colors.success
+verifyBtn.BackgroundTransparency = 0.2
+verifyBtn.Text = "Verify Key"
+verifyBtn.TextColor3 = Color3.fromRGB(255, 255, 255)
+verifyBtn.TextSize = 14
+verifyBtn.Font = Enum.Font.GothamSemibold
+verifyBtn.Parent = buttonFrame
+
+local verifyCorner = Instance.new("UICorner")
+verifyCorner.CornerRadius = UDim.new(0, 10)
+verifyCorner.Parent = verifyBtn
+
+local statusLabel = Instance.new("TextLabel")
+statusLabel.Name = "Status"
+statusLabel.Size = UDim2.new(1, 0, 0, 20)
+statusLabel.Position = UDim2.new(0, 0, 0, 220)
+statusLabel.BackgroundTransparency = 1
+statusLabel.Text = ""
+statusLabel.TextColor3 = Colors.textSecondary
+statusLabel.TextSize = 12
+statusLabel.Font = Enum.Font.Gotham
+statusLabel.Parent = content
+
+gui.Parent = game:GetService("CoreGui")
+
+local function updateStatus(msg, color)
+    statusLabel.Text = msg
+    statusLabel.TextColor3 = color or Colors.textSecondary
+end
+
+local function closeUI()
+    TweenService:Create(container, TweenInfo.new(0.2), {BackgroundTransparency = 1}):Play()
+    TweenService:Create(backdrop, TweenInfo.new(0.2), {BackgroundTransparency = 1}):Play()
+    task.wait(0.2)
+    gui:Destroy()
+end
+
+local function verifyKey(key)
+    if not key or #key == 0 then
+        updateStatus("Please enter a key", Colors.error)
+        return false
+    end
+    
+    updateStatus("Verifying...", Colors.primary)
+    verifyBtn.Interactable = false
+    
+    local result = Junkie.check_key(key)
+    
+    if result and result.valid then
+        getgenv().SCRIPT_KEY = key
+        updateStatus("Success! Loading...", Colors.success)
+        task.wait(0.5)
+        closeUI()
+        loadstring(game:HttpGet("https://api.jnkie.com/api/v1/luascripts/public/dc15b5edf02bae8de414c6de43570d863cf3cf9b20b621c1d2c40270ed558aa2/download"))()
+        return true
+    else
+        local err = result and result.message or "Invalid key"
+        updateStatus("Error: " .. err, Colors.error)
+        verifyBtn.Interactable = true
+        return false
+    end
+end
+
+getLinkBtn.MouseButton1Click:Connect(function()
+    local link = Junkie.get_key_link()
+    if link then
+        if setclipboard then
+            setclipboard(link)
+            updateStatus("Link copied to clipboard!", Colors.success)
+        else
+            updateStatus("Link: " .. link, Colors.primary)
+        end
+    else
+        updateStatus("Failed to get link", Colors.error)
+    end
+end)
+
+verifyBtn.MouseButton1Click:Connect(function()
+    verifyKey(keyInput.Text:gsub("%s+", ""))
+end)
+
+keyInput.FocusLost:Connect(function(enterPressed)
+    if enterPressed then
+        verifyKey(keyInput.Text:gsub("%s+", ""))
+    end
+end)
+
+closeBtn.MouseButton1Click:Connect(function()
+    closeUI()
+end)
+
+keyInput.Focused:Connect(function()
+    TweenService:Create(inputStroke, TweenInfo.new(0.2), {Color = Colors.primary, Thickness = 2}):Play()
+end)
+
+keyInput.FocusLost:Connect(function()
+    TweenService:Create(inputStroke, TweenInfo.new(0.2), {Color = Colors.border, Thickness = 1}):Play()
+end)
