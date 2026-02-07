@@ -1,3 +1,3 @@
 # StarLight
 Scrpit:
-loadstring(game:HttpGet("https://raw.githubusercontent.com/StarMoon-SL/StarLight/refs/heads/main/StarLight%20Loader.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/StarMoon-SL/StarLight/refs/heads/main/StarLight/StarLight%20Loader.lua"))()
