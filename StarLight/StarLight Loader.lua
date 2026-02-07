@@ -6,6 +6,20 @@ Junkie.provider = "StarLight"
 local maxAttempts = 5
 local attempts = 0
 local validated = false
+local userKey = getgenv().SCRIPT_KEY
+
+if userKey and #userKey > 0 then
+    local validation = Junkie.check_key(userKey)
+    if validation.valid then
+        validated = true
+        print("Key validated successfully!")
+    else
+        local errorMsg = validation.message or "Unknown error"
+        warn("[ERROR] Preset key invalid: " .. errorMsg)
+        getgenv().SCRIPT_KEY = nil
+        userKey = nil
+    end
+end
 
 while not validated and attempts < maxAttempts do
     local link = Junkie.get_key_link()
@@ -16,13 +30,13 @@ while not validated and attempts < maxAttempts do
     else
         warn("Please wait 5 minutes")
     end
-    
+
     print("\nEnter your key:")
-    local userKey = getUserInput()
-    
+    userKey = getUserInput()
+
     if userKey and #userKey > 0 then
         attempts = attempts + 1
-        
+
         local validation = Junkie.check_key(userKey)
         if validation.valid then
             validated = true
@@ -32,7 +46,7 @@ while not validated and attempts < maxAttempts do
         else
             local errorMsg = validation.message or "Unknown error"
             warn("[ERROR] " .. errorMsg)
-            
+
             if errorMsg == "KEY_EXPIRED" then
                 print("[INFO] Key expired - get a new one")
             elseif errorMsg == "HWID_BANNED" then
@@ -47,12 +61,12 @@ while not validated and attempts < maxAttempts do
     else
         warn("Error: No key entered")
     end
-    
+
     if attempts >= maxAttempts then
         warn("Error: Too many failed attempts!")
         return
     end
-    
+
     task.wait(1)
 end
 
