@@ -1,6 +1,7 @@
 # StarLight
 Get Key:
 https://jnkie.com/get-key/starlight
+
 Scrpit:
 getgenv().SCRIPT_KEY = "Your scrpit key"
 
